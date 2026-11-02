@@ -1,0 +1,4 @@
+work/
+__pycache__/
+output/figures/*/Scatterplots/*Histogram*
+output/figures/*/Scatterplots/*.tex

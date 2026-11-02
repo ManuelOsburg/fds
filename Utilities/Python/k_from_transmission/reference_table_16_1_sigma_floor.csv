@@ -1,0 +1,6 @@
+Quantity,Number of Datasets,Number of Points,Sigma_Experiment,Sigma_Model,Bias,source
+Compartment Over-Pressure,5,187,0.23,0.19,0.95,"FDS Validation Guide 6.11.1, Table 16.1, rows with Sigma_Model < Sigma_Experiment; transcribed from a screenshot provided by M. Osburg on 2026-11-02"
+Smoke Detector Activation Time,1,142,0.34,0.21,0.62,"FDS Validation Guide 6.11.1, Table 16.1, rows with Sigma_Model < Sigma_Experiment; transcribed from a screenshot provided by M. Osburg on 2026-11-02"
+Smoke Detector Activation Time; Temp. Rise,1,142,0.34,0.32,1.24,"FDS Validation Guide 6.11.1, Table 16.1, rows with Sigma_Model < Sigma_Experiment; transcribed from a screenshot provided by M. Osburg on 2026-11-02"
+Entrainment,2,87,0.10,0.00,1.14,"FDS Validation Guide 6.11.1, Table 16.1, rows with Sigma_Model < Sigma_Experiment; transcribed from a screenshot provided by M. Osburg on 2026-11-02"
+Minimum Extinguishing Concentration,46,46,0.06,0.00,1.07,"FDS Validation Guide 6.11.1, Table 16.1, rows with Sigma_Model < Sigma_Experiment; transcribed from a screenshot provided by M. Osburg on 2026-11-02"

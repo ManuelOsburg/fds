@@ -1,0 +1,43 @@
+{
+  "_comment": [
+    "Pinned commits of the three firemodels repositories for each variant.",
+    "6.11.1: state of the FDS Validation Guide 6.11.1 (Table 16.1). fds = release tag;",
+    "        exp/out = last commits on master before the tag date 2026-07-09.",
+    "        out@d4c34a67 carries NIST_NRC results of FDS-6.11.0-14-g86de436 and",
+    "        FAA results of FDS-6.10.1-1912-gf88650b, i.e. the version strings printed",
+    "        on the guide figures.",
+    "master: firemodels master of fds/exp/out as cloned on 2026-11-02."
+  ],
+  "variants": {
+    "6.11.1": {
+      "fds": "ff928dbf68a2623ced3a007be75391c6dc6c9f90",
+      "fds_ref": "FDS-6.11.1",
+      "exp": "39d8b735870826430a69cfb95681db67cfd36bbf",
+      "out": "d4c34a675f2ccb844f039663f43e1626dd950644"
+    },
+    "master": {
+      "fds": "76170f30bb260b4dba270d3037784d0154a553d7",
+      "fds_ref": "upstream/master 2026-11-02",
+      "exp": "704e0d91f15088ae41c6a30a662a7524bf5ff4e8",
+      "out": "4885e605b7468579bb809c376f5c4c9c19b912ef"
+    }
+  },
+  "fds_paths": [
+    "Utilities/Python/fdsplotlib.py",
+    "Utilities/Python/FDS_validation_dataplot_inputs.csv",
+    "Utilities/Python/FDS_validation_scatterplot_inputs.csv",
+    "Validation/NIST_NRC/FDS_Input_Files",
+    "Validation/FAA_Cargo_Compartments/FDS_Input_Files",
+    "Validation/FM_FPRF_Datacenter/FDS_Input_Files",
+    "Source/read.f90"
+  ],
+  "data_paths": [
+    "NIST_NRC",
+    "FAA_Cargo_Compartments",
+    "FM_FPRF_Datacenter"
+  ],
+  "smoke_quantities": [
+    "Smoke Obscuration",
+    "Smoke Concentration"
+  ]
+}

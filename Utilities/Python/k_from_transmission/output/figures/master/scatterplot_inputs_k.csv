@@ -1,0 +1,3 @@
+Scatter_Plot_Title,Ind_Title,Dep_Title,Plot_Min,Plot_Max,Title_Position,Key_Position,Paper_Width_Factor,Sigma_E,Weight_Data,Plot_Type,Plot_Filename
+Smoke Obscuration,Measured Obscuration (%/m),Predicted Obscuration (%/m),0.1,100,0.03 0.95,EastOutside,1.5,7,no,loglog,Scatterplots/FDS_Smoke_Obscuration
+Smoke Extinction Coefficient,Measured Extinction Coefficient (1/m),Predicted Extinction Coefficient (1/m),0.001,100,0.03 0.95,EastOutside,1.5,19.0,no,loglog,Scatterplots/FDS_Smoke_Extinction_Coefficient

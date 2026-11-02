@@ -1,0 +1,99 @@
+{
+  "generated_utc": "2026-11-02T12:48:21+00:00",
+  "python": "3.12.11",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.2",
+    "scipy": "1.17.1",
+    "pytest": "9.2.0"
+  },
+  "repos": {
+    "exp": {
+      "path": "../exp",
+      "head": "704e0d91f15088ae41c6a30a662a7524bf5ff4e8",
+      "describe": "EXP-6.11.1-22-g704e0d91"
+    },
+    "out": {
+      "path": "../out",
+      "head": "4885e605b7468579bb809c376f5c4c9c19b912ef",
+      "describe": "OUT-6.11.1-119-g4885e605b"
+    }
+  },
+  "fds_branch": "k-from-transmission",
+  "fds_branch_base": "76170f30bb260b4dba270d3037784d0154a553d7",
+  "variants": {
+    "6.11.1": {
+      "pins": {
+        "fds": "ff928dbf68a2623ced3a007be75391c6dc6c9f90",
+        "fds_ref": "FDS-6.11.1",
+        "exp": "39d8b735870826430a69cfb95681db67cfd36bbf",
+        "out": "d4c34a675f2ccb844f039663f43e1626dd950644"
+      },
+      "commit_dates": {
+        "fds": "2026-07-09",
+        "exp": "2026-06-30",
+        "out": "2026-06-29"
+      },
+      "fds_describe": "FDS-6.11.1",
+      "out_git_txt": {
+        "NIST_NRC": "FDS-6.11.0-14-g86de436-master",
+        "FAA_Cargo_Compartments": "FDS-6.10.1-1912-gf88650b-master",
+        "FM_FPRF_Datacenter": "FDS-6.10.1-1773-g20dc4c7-master"
+      },
+      "crosscheck_max_rel_diff": 0.000352422907488948,
+      "crosscheck_n_points": 47,
+      "crosscheck_n_unmatched": 0
+    },
+    "master": {
+      "pins": {
+        "fds": "76170f30bb260b4dba270d3037784d0154a553d7",
+        "fds_ref": "upstream/master 2026-11-02",
+        "exp": "704e0d91f15088ae41c6a30a662a7524bf5ff4e8",
+        "out": "4885e605b7468579bb809c376f5c4c9c19b912ef"
+      },
+      "commit_dates": {
+        "fds": "2026-10-31",
+        "exp": "2026-10-21",
+        "out": "2026-10-30"
+      },
+      "fds_describe": "FDS-6.11.1-407-g76170f30b",
+      "out_git_txt": {
+        "NIST_NRC": "FDS-6.11.1-77-gc444053-master",
+        "FAA_Cargo_Compartments": "FDS-6.11.1-77-gc444053-master",
+        "FM_FPRF_Datacenter": "FDS-6.11.1-171-g2c63c6e-master"
+      },
+      "crosscheck_max_rel_diff": 0.00019444530281653464,
+      "crosscheck_n_points": 45,
+      "crosscheck_n_unmatched": 0
+    }
+  },
+  "sigma_E_options": [
+    [
+      "fixed_0.07",
+      0.07
+    ],
+    [
+      "fixed_0.08",
+      0.08
+    ],
+    [
+      "fixed_0.14",
+      0.14
+    ],
+    [
+      "fixed_0.19",
+      0.19
+    ],
+    [
+      "prop_relO_0.07",
+      0.07
+    ],
+    [
+      "prop_relT_0.07",
+      0.07
+    ]
+  ],
+  "primary_sigma_E": "fixed_0.19"
+}

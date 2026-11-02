@@ -1,0 +1,46 @@
+variant,Quantity,csv_rownum,Dataname,Predicted_Values,Measured_Values
+master,Smoke Obscuration,4153,NIST/NRC,88.75,30.31
+master,Smoke Obscuration,4154,NIST/NRC,90.94,67.16
+master,Smoke Obscuration,4155,NIST/NRC,83.13,64.18
+master,Smoke Obscuration,4156,NIST/NRC,82.13,50.1
+master,Smoke Obscuration,4157,NIST/NRC,65.76,53.21
+master,Smoke Obscuration,4158,NIST/NRC,87.71,38.08
+master,Smoke Obscuration,4159,NIST/NRC,89.65,57.92
+master,Smoke Obscuration,4160,NIST/NRC,82.0,63.86
+master,Smoke Obscuration,4161,NIST/NRC,82.22,45.94
+master,Smoke Obscuration,4162,NIST/NRC,88.75,85.76
+master,Smoke Obscuration,4163,NIST/NRC,81.02,54.81
+master,Smoke Obscuration,4164,NIST/NRC,77.98,66.29
+master,Smoke Obscuration,4165,NIST/NRC,82.77,70.16
+master,Smoke Obscuration,4166,NIST/NRC,100.0,95.36
+master,Smoke Obscuration,4167,NIST/NRC,78.43,61.6
+master,Smoke Obscuration,4505,FM/FPRF Datacenter,59.46,57.32
+master,Smoke Obscuration,4505,FM/FPRF Datacenter,1.443,1.812
+master,Smoke Obscuration,4505,FM/FPRF Datacenter,7.021,24.15
+master,Smoke Obscuration,4506,FM/FPRF Datacenter,82.69,71.29
+master,Smoke Obscuration,4506,FM/FPRF Datacenter,2.237,0.4812
+master,Smoke Obscuration,4506,FM/FPRF Datacenter,3.395,6.566
+master,Smoke Obscuration,4507,FM/FPRF Datacenter,2.596e-05,0.2046
+master,Smoke Obscuration,4507,FM/FPRF Datacenter,6.585,3.756
+master,Smoke Obscuration,4508,FM/FPRF Datacenter,0.1089,1.281
+master,Smoke Obscuration,4508,FM/FPRF Datacenter,2.294,2.016
+master,Smoke Obscuration,4509,FM/FPRF Datacenter,64.29,78.1
+master,Smoke Obscuration,4509,FM/FPRF Datacenter,0.8848,4.156
+master,Smoke Obscuration,4511,FAA Cargo Compartments,88.65,82.29
+master,Smoke Obscuration,4511,FAA Cargo Compartments,89.34,83.73
+master,Smoke Obscuration,4511,FAA Cargo Compartments,89.66,82.68
+master,Smoke Obscuration,4512,FAA Cargo Compartments,86.39,67.22
+master,Smoke Obscuration,4512,FAA Cargo Compartments,85.4,78.53
+master,Smoke Obscuration,4512,FAA Cargo Compartments,83.11,76.61
+master,Smoke Obscuration,4513,FAA Cargo Compartments,88.49,78.55
+master,Smoke Obscuration,4513,FAA Cargo Compartments,86.78,81.35
+master,Smoke Obscuration,4513,FAA Cargo Compartments,85.46,79.57
+master,Smoke Obscuration,4514,FAA Cargo Compartments,83.14,77.46
+master,Smoke Obscuration,4514,FAA Cargo Compartments,46.31,31.77
+master,Smoke Obscuration,4514,FAA Cargo Compartments,3.239,4.2
+master,Smoke Obscuration,4515,FAA Cargo Compartments,82.31,74.44
+master,Smoke Obscuration,4515,FAA Cargo Compartments,67.5,74.68
+master,Smoke Obscuration,4515,FAA Cargo Compartments,0.73,5.09
+master,Smoke Obscuration,4516,FAA Cargo Compartments,83.95,76.47
+master,Smoke Obscuration,4516,FAA Cargo Compartments,61.22,70.08
+master,Smoke Obscuration,4516,FAA Cargo Compartments,4.597,13.28
